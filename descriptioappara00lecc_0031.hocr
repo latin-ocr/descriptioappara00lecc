@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./descriptioappara00lecc_0031.png"; bbox 0 0 2446 3408; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 218 2876 1881 3037">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 218 2876 1881 3037">
+     <span class='ocr_line' id='line_1_1' title="bbox 218 2876 1881 2961; baseline 0.013 -31"><span class='ocrx_word' id='word_1_1' title='bbox 218 2878 305 2932; x_wconf 90' lang='lat' dir='ltr'>Ab</span> <span class='ocrx_word' id='word_1_2' title='bbox 344 2876 432 2930; x_wconf 74' lang='lat' dir='ltr'>hac</span> <span class='ocrx_word' id='word_1_3' title='bbox 471 2878 636 2947; x_wconf 67' lang='lat' dir='ltr'>infign&#39;i</span> <span class='ocrx_word' id='word_1_4' title='bbox 673 2890 852 2951; x_wconf 83' lang='lat' dir='ltr'>pietate</span> <span class='ocrx_word' id='word_1_5' title='bbox 889 2891 1028 2952; x_wconf 71' lang='lat' dir='ltr'>origo</span> <span class='ocrx_word' id='word_1_6' title='bbox 1065 2889 1133 2942; x_wconf 87' lang='lat' dir='ltr'>est</span> <span class='ocrx_word' id='word_1_7' title='bbox 1169 2888 1421 2961; x_wconf 62' lang='lat' dir='ltr'>perpetua:v</span> <span class='ocrx_word' id='word_1_8' title='bbox 1460 2895 1588 2949; x_wconf 73' lang='lat' dir='ltr'>illius</span> <span class='ocrx_word' id='word_1_9' title='bbox 1640 2890 1881 2951; x_wconf 67' lang='lat' dir='ltr'>fel&#39;icitatis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1692 2986 1816 3037; baseline 0.016 -19"><span class='ocrx_word' id='word_1_10' title='bbox 1692 2986 1816 3037; x_wconf 81' lang='lat' dir='ltr'>repe-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
